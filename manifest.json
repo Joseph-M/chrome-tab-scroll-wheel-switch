@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+
+  "name": "chrome-tab-scroll-wheel-switch",
+  "description": "This extension allows the user to switch tabs in chrome by hovering the cursor over the tab strip and scrolling with the mouse.",
+  "version": "1.0"
+
+  //"browser_action": { }
+}
+
